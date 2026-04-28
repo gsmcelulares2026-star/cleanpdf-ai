@@ -1,0 +1,6 @@
+{
+  "name": "CleanPDF AI",
+  "description": "Intelligent PDF text extraction and cleaning. Automatically removes headers, footers, and noise using AI-powered patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

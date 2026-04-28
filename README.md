@@ -32,29 +32,30 @@ Uma aplicação web inteligente para limpeza e extração de texto de PDFs usand
 ## 🛠️ Instalação e Execução
 
 1. **Clone o repositório**:
+
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/gsmcelulares2026-star/cleanpdf-ai
    cd cleanpdf-ai
    ```
-
 2. **Instale as dependências**:
+
    ```bash
    npm install
    ```
-
 3. **Configure as variáveis de ambiente**:
+
    - Copie `.env.example` para `.env` (se existir) ou crie um arquivo `.env`
    - Adicione sua chave da API do Gemini:
      ```
      GEMINI_API_KEY=sua-chave-aqui
      ```
-
 4. **Execute o servidor de desenvolvimento**:
+
    ```bash
    npm run dev
    ```
-
 5. **Abra no navegador**:
+
    - Acesse `http://localhost:3000`
 
 ## 📜 Scripts Disponíveis
